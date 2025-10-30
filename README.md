@@ -90,11 +90,4 @@ npm test
 2. Make changes, add tests if applicable, and run the app locally.
 3. Open a pull request with a clear description of what you changed and why.
 
-## License
-No license file is included in the repository. Add a LICENSE file (for example MIT) if you want to make the project open source.
-
-## Contact
-Maintainer: NITHISHKUMAR0283 (GitHub)  
-Open issues on the repository for bugs or feature requests.
-
 ```
